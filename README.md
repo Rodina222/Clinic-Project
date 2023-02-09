@@ -1,1 +1,3 @@
 # Clinic-Project
+
+It is a relational-database-based application using Microsoft Windows Forms with C sharp language. The application is based on a real-life model (Clinic). The application serves different users: doctors, admins, patients , and receptionists. Admins are responsible for creating the accounts of doctors and  receptionists. Patients can use this application to book time slots for different doctors. Doctors can use this application to know their schedules, follow the development of different patients and record different medications for different diseases. Receptionists use this application to arrange different appointments between patients and doctors.
